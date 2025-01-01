@@ -4,7 +4,7 @@
 **Ashok-does-computing/Ashok-does-computing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Status ->
+-> Status ->
 
 - 🔭 I’m currently working on an electronics project...
 - 🌱 I’m currently learning at school...
